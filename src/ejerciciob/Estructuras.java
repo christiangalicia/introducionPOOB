@@ -89,7 +89,9 @@ public class Estructuras {
         Boolean d1= true;
         Long f1= 4l;
         Character g1= 'a';
-        String h1= "hola";       
+        String h1= "hola";    
+        
+        h1=h1+"otro mensaje";
        
     }
     
